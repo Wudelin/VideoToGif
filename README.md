@@ -23,6 +23,9 @@ How to use?
 
 ```
 
+效果
+-------
+![result](https://github.com/Wudelin/VideoToGif/blob/master/pictrue/1571906621942.gif "效果图")  
 
 
 Download
