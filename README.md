@@ -23,6 +23,10 @@ How to use?
 
 ```
 
+参考 ： https://github.com/boybeak/GifMaker
+
+
+
 效果
 -------
 ![result](https://github.com/Wudelin/VideoToGif/blob/master/pictrue/1571906621942.gif "效果图")  
