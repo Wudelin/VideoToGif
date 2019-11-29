@@ -5,6 +5,7 @@ How to use?
 * 1.设置输出环境(gif文件保的路径)<br>
 * 2.实例化GifTransform<br>
 * 3.调用内部方法即可<br>
+* 4.读写权限
 
 ```
  transform = new GifTransform(file.getAbsolutePath());
